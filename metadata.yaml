@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42882'
     url: http://www.gutenberg.org/2009/agents/42882
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44705#Mammals-Collected-by-Dr.-W.-L.-Abbott-on-the-Natuna-IslandsProceedings-of-the-Washington-Acad_
 gutenberg_issued: '2014-01-19'
 gutenberg_type: Text
 identifiers:
